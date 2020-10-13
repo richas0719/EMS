@@ -1,1 +1,2 @@
 this is recd.file
+this is record.file
